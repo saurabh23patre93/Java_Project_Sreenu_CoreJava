@@ -7,7 +7,14 @@ import java.util.List;
 import java.util.Scanner;
 
 import com.nt.model.Customer;
-
+/*
+ * Requirement::
+ * Q::Read the customer data form file and display the data in console.
+ * 	1::Read file 
+ * 	2::Read the line by line from the file
+ * 	3::slit line into tokens using stringtokenizer or scanner
+ * 	4::Convert into object and display
+ */
 public class CoreJava {
 
 	public static void main(String[] args) {
